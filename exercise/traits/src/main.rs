@@ -97,6 +97,7 @@ fn main() {
     // - Implement `From<Party> for Cake` so that the function call below works.
     //
 
+    // TODO:
     // smell_cake(party);
 
     // Challenge 2: Implement `From<&Party> for Cake` so that you can smell your cake without
